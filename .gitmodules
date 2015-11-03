@@ -1,0 +1,6 @@
+[submodule "lib/lib1"]
+	path = lib/lib1
+	url = https://github.com/lezasantaizi/common_lib1.git
+[submodule "lib/lib2"]
+	path = lib/lib2
+	url = https://github.com/lezasantaizi/common_lib2.git
